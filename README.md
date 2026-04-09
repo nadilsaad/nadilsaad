@@ -26,7 +26,6 @@ I'm **Nadil Saad**, a passionate **Software Developer**, **IoT Enthusiast**, and
 - 🎨 Enthusiastic about **UI/UX** and building clean, user-friendly interfaces
 - 🌱 Currently improving my skills in **Python, Java, PHP, Django, React, Node.js, PostgreSQL, MySQL, MongoDB, Vite, Android Development, and Web Technologies**
 - 🤝 Open to collaboration on **software, web, and IoT projects**
-- ⚡ I enjoy solving real-world problems through technology
 
 ---
 
@@ -36,7 +35,6 @@ I'm **Nadil Saad**, a passionate **Software Developer**, **IoT Enthusiast**, and
 - Creating practical solutions using **Python**
 - Exploring **IoT-based systems** for real-life challenges
 - Improving in **Database Design**, **System Development**, and **Software Engineering**
-- Building impactful academic and personal projects
 
 ---
 
@@ -47,8 +45,7 @@ I'm **Nadil Saad**, a passionate **Software Developer**, **IoT Enthusiast**, and
 - Desktop applications with practical functionality
 - IoT solutions for monitoring and automation
 - Student-centered digital platforms for communication and support
-
-One of the platforms I’ve worked on is **Uniforums Website** — a university discussion platform designed to help students exchange ideas and interact on topics such as **entertainment, politics, health, academics, and many other areas** in a structured and user-friendly environment.
+- **Uniforums Website** — a university discussion platform for topics like entertainment, politics, health, academics, and more
 
 ---
 
@@ -155,10 +152,14 @@ One of the platforms I’ve worked on is **Uniforums Website** — a university 
 
 ---
 
-## 🎮 Contribution Footer
+## 🕹️ Contribution Footer
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nadilsaad&theme=tokyo-night&hide_border=true&area=true&custom_title=Nadil%20Saad's%20Contribution%20Journey" alt="Contribution Graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nadilsaad/nadilsaad/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nadilsaad/nadilsaad/output/pacman-contribution-graph.svg">
+    <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/nadilsaad/nadilsaad/output/pacman-contribution-graph.svg">
+  </picture>
 </p>
 
 <div align="center">
