@@ -1,10 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=900&lines=Hi+there+I'm+Nadil+Saad+👋;Information+Systems+Management+Student;Software+Developer;IoT+Enthusiast;UI%2FUX+Enthusiast;Building+Real-World+Solutions+with+Technology" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=900&lines=Hi+there+I'm+Nadil+Saad+👋;Information+Systems+Management+Student;Software+Developer;IoT+Enthusiast;UI%2FUX+Enthusiast;Building+Real-World+Solutions+with+Technology" />
+
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=nadilsaad&style=for-the-badge&color=blue" />
 
-[![committers.top badge](https://user-badge.committers.top/tanzania/nadilsaad.svg)](https://user-badge.committers.top/tanzania/nadilsaad)
+[![committers.top badge](https://user-badge.committers.top/tanzania/nadilsaad.svg)](https://committers.top/tanzania)
 
 </div>
 
@@ -12,7 +14,7 @@
 
 ## Hi there 👋 Welcome
 
-I'm **Nadil Saad**, a passionate **Software Developer**, **IoT Enthusiast**, and **Information Systems Management student** interested in building practical systems, smart solutions, and modern digital experiences.
+I'm **Nadil Saad**, a passionate **Software Developer**, **IoT Enthusiast**, and **Information Systems Management student** focused on building practical systems, smart solutions, and modern digital experiences.
 
 ---
 
@@ -22,7 +24,7 @@ I'm **Nadil Saad**, a passionate **Software Developer**, **IoT Enthusiast**, and
 - 💻 Passionate about **Software Development**, **Web Development**, and **Desktop Application Development**
 - 📡 Interested in **IoT systems**, automation, and smart monitoring solutions
 - 🎨 Enthusiastic about **UI/UX** and building clean, user-friendly interfaces
-- 🌱 Currently improving my skills in **Python, Java, Django, PostgreSQL, Android Development, and Web Technologies**
+- 🌱 Currently improving my skills in **Python, Java, PHP, Django, React, Node.js, PostgreSQL, MySQL, MongoDB, Vite, Android Development, and Web Technologies**
 - 🤝 Open to collaboration on **software, web, and IoT projects**
 - ⚡ I enjoy solving real-world problems through technology
 
@@ -44,12 +46,18 @@ I'm **Nadil Saad**, a passionate **Software Developer**, **IoT Enthusiast**, and
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/Tkinter-FFCC00?style=for-the-badge&logo=python&logoColor=black"/>
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
 <img src="https://img.shields.io/badge/IoT-1E90FF?style=for-the-badge"/>
@@ -62,31 +70,23 @@ I'm **Nadil Saad**, a passionate **Software Developer**, **IoT Enthusiast**, and
 
 ---
 
-## 📌 Featured Projects
-
-### 🌟 Life Coach Web Application
-A personal development platform designed to help users build better habits, stay consistent, and improve daily growth.
-
-### 🏠 Hostel Management Desktop Application
-A desktop-based hostel management system built with **Python** and **Tkinter** for student registration, room allocation, vacancy tracking, and payment management.
-
-### 🌊 Smart Water Level Monitoring and Alert System
-An **IoT-based project** developed to monitor water levels automatically and provide alerts for smarter water management and control.
-
-### 📚 N-Maktaba
-A digital learning and resource-sharing platform designed to help students access academic materials more easily.
-
-### 🗣️ Uniforums Website
-A web-based discussion platform designed to help university students discuss and exchange ideas on different topics such as **entertainment, politics, health, academics, and many other areas** in a structured and user-friendly environment.
-
----
-
-## 💡 What I Enjoy Building
+## 🌍 What I Build
 
 - Smart systems that solve real-world problems
 - Websites with clean and engaging user experiences
 - Desktop applications with practical functionality
-- Projects that combine **technology, usability, and impact**
+- IoT solutions for monitoring and automation
+- Student-centered digital platforms for communication and support
+
+---
+
+## 🛠️ Projects I’ve Worked On
+
+- **Life Coach Web Application** – a personal development platform for habit building and growth
+- **Hostel Management Desktop Application** – a Tkinter-based system for student registration, room allocation, vacancy tracking, and payments
+- **Smart Water Level Monitoring and Alert System** – an IoT-based solution for automated water level monitoring and alerts
+- **N-Maktaba** – a digital learning and resource-sharing platform
+- **Uniforums Website** – a university discussion platform where students can discuss topics such as **entertainment, politics, health, academics, and many other areas** in a structured and user-friendly environment
 
 ---
 
@@ -123,19 +123,27 @@ A web-based discussion platform designed to help university students discuss and
 <img src="https://img.icons8.com/color/48/github.png" alt="github"/>
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_HERE">
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_HERE/">
 <img src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/>
+</a>
+
+<a href="https://facebook.com/YOUR_FACEBOOK_USERNAME">
+<img src="https://img.icons8.com/color/48/facebook-new.png" alt="facebook"/>
+</a>
+
+<a href="https://www.tiktok.com/@YOUR_TIKTOK_USERNAME">
+<img src="https://img.icons8.com/color/48/tiktok--v1.png" alt="tiktok"/>
 </a>
 
 <a href="https://x.com/YOUR_X_HANDLE">
 <img src="https://img.icons8.com/color/48/twitterx--v1.png" alt="x"/>
 </a>
 
-<a href="https://www.instagram.com/YOUR_INSTAGRAM">
+<a href="https://www.instagram.com/YOUR_INSTAGRAM_USERNAME/">
 <img src="https://img.icons8.com/color/48/instagram-new.png" alt="instagram"/>
 </a>
 
-<a href="https://t.me/YOUR_TELEGRAM">
+<a href="https://t.me/YOUR_TELEGRAM_USERNAME">
 <img src="https://img.icons8.com/color/48/telegram-app.png" alt="telegram"/>
 </a>
 
@@ -143,7 +151,7 @@ A web-based discussion platform designed to help university students discuss and
 <img src="https://img.icons8.com/color/48/whatsapp.png" alt="whatsapp"/>
 </a>
 
-<a href="https://www.youtube.com/@YOUR_CHANNEL">
+<a href="https://www.youtube.com/@YOUR_YOUTUBE_HANDLE">
 <img src="https://img.icons8.com/color/48/youtube-play.png" alt="youtube"/>
 </a>
 
