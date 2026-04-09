@@ -1,157 +1,131 @@
-<h1 align="center">Hi 👋, I'm Nadil Saad</h1>
-<h3 align="center">Information Systems Management Student • Software Developer • IoT Enthusiast • UI/UX Enthusiast</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nadilsaad&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="nadilsaad" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+Profile!;I'm+Nadil+Saad;Software+Developer+in+Progress;IoT+Enthusiast+and+Problem+Solver;Building+Real-World+Solutions+with+Technology" alt="Typing SVG" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi+there+I'm+Amos+👋;Software+Developer;Cloud+%26+AI+Enthusiast;Android+Developer;IoT+Builder" />
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Nadil%20Saad&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=AmosStack&style=for-the-badge&color=blue" />
+
+
+
+
+</div>
+
+---
+
+## Hi there 👋 Welcome  
+
+I'm **AmosStack**, a passionate **Software Developer and Information Systems management student** interested in building intelligent systems and scalable applications.
 
 ---
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+* 👀 Interested in **Cloud Computing and Artificial Intelligence**
+* 🌱 Currently learning **Android Development**
+* 🤝 Looking to collaborate on **Android and Web Development Projects**
+* 📫 Reach me at **[amgenious28@gmail.com](mailto:amgenious28@gmail.com)**
+* 😄 Pronouns: **He/Him**
+* ⚡ Fun fact: **Robots build robots**
+  
+[![committers.top badge](https://user-badge.committers.top/tanzania/AmosStack.svg)](https://user-badge.committers.top/tanzania/AmosStack)
+---
 
-- 🎓 I am an **Information Systems Management student**
-- 💻 Passionate about **Software Development**, **Web Development**, and **Desktop Application Development**
-- 📡 I am an **IoT enthusiast** who enjoys building smart and practical systems
-- 🎨 I love creating clean, modern, and user-friendly **UI/UX designs**
-- 🌱 Currently improving my skills in **Python, PostgreSQL, Git/GitHub, Android Development, and Web Technologies**
-- 🧠 I enjoy solving real-world problems through technology
-- 🤝 Open to collaboration on **software, web, and IoT projects**
+## 🧰 Tech Stack
 
-<br clear="right"/>
+<div align="center">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+</div>
 
 ---
 
-## 🎯 Current Focus
-
-- Building stronger skills in **Full-Stack Web Development**
-- Developing practical systems using **Python**
-- Exploring **IoT-based solutions** for real-life challenges
-- Improving my knowledge in **Database Design**, **System Development**, and **Software Engineering**
-- Creating impactful academic and personal tech projects
-
----
-
-## 🛠️ Tech Stack
+## 📊 GitHub Stats 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tkinter-FFCC00?style=for-the-badge&logo=python&logoColor=black" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/IoT-1E90FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/UI%2FUX-Design-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AmosStack&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=AmosStack&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmosStack&layout=compact&theme=tokyonight" />
+
 </p>
 
 ---
 
-## 📌 Featured Projects
-
-### 🌟 Life Coach Web Application
-A personal development platform designed to help users build better habits, stay consistent, and improve daily growth.
-
-### 🏠 Hostel Management Desktop Application
-A desktop-based hostel management system built with **Python** and **Tkinter** for student registration, room allocation, vacancy tracking, and payment management.
-
-### 🌊 Smart Water Level Monitoring and Alert System
-An **IoT-based project** developed to monitor water levels automatically and provide alerts for smarter water management and control.
-
-### 📚 N-Maktaba
-A digital learning and resource-sharing platform designed to help students access academic materials more easily.
-
-### 🗣️ Uniforums Website
-A web-based discussion platform created to help university students interact and exchange ideas across different fields such as **entertainment, politics, health, academics, and many other areas of interest** through a structured and user-friendly environment.
-
----
-
-## 💡 What I Enjoy Building
-
-- Smart systems that solve real-world problems
-- Websites with clean and engaging user experiences
-- Desktop applications with practical functionality
-- Projects that combine **technology, usability, and impact**
-
----
-
-## 📊 GitHub Stats
+## 📈 Contribution Graph 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nadilsaad&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadilsaad&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" width="37%" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nadilsaad&theme=tokyonight&hide_border=true&border_radius=10" width="60%" />
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AmosStack&theme=tokyo-night&hide_border=true&area=true"/>
 
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nadilsaad&theme=tokyo-night&hide_border=true" width="95%"/>
 </p>
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="center">
-  <a href="mailto:nadilsaad17@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/nadilsaad">
-    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/nadil-saad">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://wa.me/255618566580">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-</p>
+<div align="center">
+
+<a href="mailto:amgenious28@gmail.com">
+<img src="https://img.icons8.com/color/48/gmail-new.png" alt="gmail"/>
+</a>
+
+<a href="https://github.com/AmosStack">
+<img src="https://img.icons8.com/color/48/github.png" alt="github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/amos-m-82813b288/">
+<img src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/>
+</a>
+
+<a href="https://twitter.com/TWITTER">
+<img src="https://img.icons8.com/color/48/twitter--v1.png" alt="twitter"/>
+</a>
+
+<a href="https://www.instagram.com/INSTAGRAM">
+<img src="https://img.icons8.com/color/48/instagram-new.png" alt="instagram"/>
+</a>
+
+<a href="https://t.me/+25573052925">
+<img src="https://img.icons8.com/color/48/telegram-app.png" alt="telegram"/>
+</a>
+
+<a href="https://wa.me/+25573052925">
+<img src="https://img.icons8.com/color/48/whatsapp.png" alt="whatsapp"/>
+</a>
+
+<a href="https://masterplanjr.netlify.app/">
+<img src="https://img.icons8.com/color/48/domain.png" alt="website"/>
+</a>
+
+</div>
+
 
 ---
 
-## 💭 Personal Motto
-
 <p align="center">
-  <i>"Keep learning, keep building, and let your work speak for you."</i>
+<img src="https://raw.githubusercontent.com/AmosStack/AmosStack/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
----
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/nadilsaad/nadilsaad/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
-
----
-
-<p align="center">
-  <b>Thanks for visiting my profile.</b>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=2&section=footer&reversal=false" width="100%"/>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=110&section=footer"/>
-</p>
+<div align="center">
+ 
+ <b>Thanks for visiting my profile!</b>
+</div>
