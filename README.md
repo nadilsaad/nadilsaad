@@ -1,35 +1,43 @@
 <h1 align="center">Hi 👋, I'm Nadil Saad</h1>
-<h3 align="center">Information Systems Management Student | Software Developer | IoT Enthusiast | UI/UX Enthusiast</h3>
+<h3 align="center">Information Systems Management Student • Software Developer • IoT Enthusiast • UI/UX Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nadilsaad&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="nadilsaad" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+Profile!;I'm+Nadil+Saad;Software+Developer+in+Progress;IoT+Enthusiast+and+Problem+Solver;Building+Real-World+Solutions+with+Tech" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+Profile!;I'm+Nadil+Saad;Software+Developer+in+Progress;IoT+Enthusiast+and+Problem+Solver;Building+Real-World+Solutions+with+Technology" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Nadil%20Saad&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+
 - 🎓 I am an **Information Systems Management student**
 - 💻 Passionate about **Software Development**, **Web Development**, and **Desktop Application Development**
-- 🌐 Interested in building **real-world digital solutions**
-- 📡 I am also an **IoT enthusiast** who enjoys working on smart systems and automation projects
-- 🎨 I love designing clean and user-friendly interfaces with a focus on **UI/UX**
+- 📡 I am an **IoT enthusiast** who enjoys building smart and practical systems
+- 🎨 I love creating clean, modern, and user-friendly **UI/UX designs**
 - 🌱 Currently improving my skills in **Python, PostgreSQL, Git/GitHub, Android Development, and Web Technologies**
+- 🧠 I enjoy solving real-world problems through technology
 - 🤝 Open to collaboration on **software, web, and IoT projects**
+
+<br clear="right"/>
 
 ---
 
-## 🧠 Current Focus
+## 🎯 Current Focus
 
-- Building strong skills in **Full-Stack Web Development**
+- Building stronger skills in **Full-Stack Web Development**
 - Developing practical systems using **Python**
-- Exploring **IoT-based solutions** for real-world challenges
-- Improving my problem-solving and software design skills
-- Creating impactful academic and personal tech projects
+- Exploring **IoT-based solutions** for real-life challenges
+- Improving my knowledge in **Database Design**, **System Development**, and **Software Engineering**
+- Growing through academic and personal projects that create impact
 
 ---
 
@@ -44,7 +52,7 @@
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/IoT-0A66C2?style=for-the-badge&logo=internetofthings&logoColor=white" />
+  <img src="https://img.shields.io/badge/IoT-1E90FF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/UI%2FUX-Design-blueviolet?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
@@ -61,25 +69,34 @@ A personal development platform designed to help users build better habits, stay
 A desktop-based hostel management system built with **Python** and **Tkinter** for student registration, room allocation, vacancy tracking, and payment management.
 
 ### 🌊 Smart Water Level Monitoring and Alert System
-An **IoT-based project** developed to monitor water levels automatically and provide alerts for better water management and control.
+An **IoT-based project** developed to monitor water levels automatically and provide alerts for smarter water management and control.
 
 ### 📚 N-Maktaba
-A digital learning and resource-sharing platform aimed at helping students access academic materials more easily.
+A digital learning and resource-sharing platform designed to help students access academic materials more easily.
 
-### 👕 Uniforms Management System
-A system designed to manage uniforms, records, and related operations efficiently.
+### 👕 Uniforums Website
+A website-based platform focused on presenting and managing uniform-related content in a structured and user-friendly way.
+
+---
+
+## 📈 What I Enjoy Building
+
+- Smart systems that solve real-life problems
+- Websites with clean and modern interfaces
+- Desktop applications with practical functionality
+- Systems that combine technology, usability, and impact
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nadilsaad&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadilsaad&layout=compact&theme=tokyonight&hide_border=true" width="37%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nadilsaad&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadilsaad&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" width="37%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nadilsaad&theme=tokyonight&hide_border=true" width="60%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nadilsaad&theme=tokyonight&hide_border=true&border_radius=10" width="60%" />
 </p>
 
 ---
@@ -111,7 +128,7 @@ A system designed to manage uniforms, records, and related operations efficientl
 
 ---
 
-## 💡 Personal Motto
+## 💭 Personal Motto
 
 <p align="center">
   <i>"Keep learning, keep building, and let your work speak for you."</i>
@@ -119,10 +136,10 @@ A system designed to manage uniforms, records, and related operations efficientl
 
 ---
 
-## 🏄 Fun Corner
+## 🏄 Fun Zone
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3Q0M2c2dXhyZjV0dHEwYjJ4dnY5Z2QxN2x3bWxybGh1N2h6dGJlNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlBO7eyXzSZkJri/giphy.gif" width="220" alt="fun animation" />
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="220" alt="swimming animation" />
 </p>
 
 <p align="center">
