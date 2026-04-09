@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=900&lines=Hi+there+I'm+Nadil+Saad+👋;Information+Systems+Management+Student;Software+Developer;IoT+Enthusiast;UI%2FUX+Enthusiast;Building+Real-World+Solutions+with+Technology" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=950&lines=Hi+there+I'm+Nadil+Saad+👋;Information+Systems+Management+Student;Software+Developer;IoT+Enthusiast;UI%2FUX+Enthusiast;Building+Real-World+Solutions+with+Technology" alt="Typing SVG" />
 
-<br/>
+<br><br>
 
-<img src="https://komarev.com/ghpvc/?username=nadilsaad&style=for-the-badge&color=blue" />
+<img src="https://komarev.com/ghpvc/?username=nadilsaad&style=for-the-badge&color=blue" alt="profile views" />
 
 [![committers.top badge](https://user-badge.committers.top/tanzania/nadilsaad.svg)](https://committers.top/tanzania)
 
@@ -40,6 +40,18 @@ I'm **Nadil Saad**, a passionate **Software Developer**, **IoT Enthusiast**, and
 
 ---
 
+## 🧠 What I Build
+
+- Smart systems that solve real-world problems
+- Websites with clean and engaging user experiences
+- Desktop applications with practical functionality
+- IoT solutions for monitoring and automation
+- Student-centered digital platforms for communication and support
+
+One of the platforms I’ve worked on is **Uniforums Website** — a university discussion platform designed to help students exchange ideas and interact on topics such as **entertainment, politics, health, academics, and many other areas** in a structured and user-friendly environment.
+
+---
+
 ## 🧰 Tech Stack
 
 <div align="center">
@@ -70,26 +82,6 @@ I'm **Nadil Saad**, a passionate **Software Developer**, **IoT Enthusiast**, and
 
 ---
 
-## 🌍 What I Build
-
-- Smart systems that solve real-world problems
-- Websites with clean and engaging user experiences
-- Desktop applications with practical functionality
-- IoT solutions for monitoring and automation
-- Student-centered digital platforms for communication and support
-
----
-
-## 🛠️ Projects I’ve Worked On
-
-- **Life Coach Web Application** – a personal development platform for habit building and growth
-- **Hostel Management Desktop Application** – a Tkinter-based system for student registration, room allocation, vacancy tracking, and payments
-- **Smart Water Level Monitoring and Alert System** – an IoT-based solution for automated water level monitoring and alerts
-- **N-Maktaba** – a digital learning and resource-sharing platform
-- **Uniforums Website** – a university discussion platform where students can discuss topics such as **entertainment, politics, health, academics, and many other areas** in a structured and user-friendly environment
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -99,14 +91,6 @@ I'm **Nadil Saad**, a passionate **Software Developer**, **IoT Enthusiast**, and
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nadilsaad&theme=tokyonight&hide_border=true&border_radius=10" width="60%" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nadilsaad&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 ---
@@ -171,20 +155,12 @@ I'm **Nadil Saad**, a passionate **Software Developer**, **IoT Enthusiast**, and
 
 ---
 
-## 🕹️ Contribution Footer
+## 🎮 Contribution Footer
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nadilsaad/nadilsaad/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nadilsaad/nadilsaad/output/pacman-contribution-graph.svg">
-    <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/nadilsaad/nadilsaad/output/pacman-contribution-graph.svg">
-  </picture>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nadilsaad&theme=tokyo-night&hide_border=true&area=true&custom_title=Nadil%20Saad's%20Contribution%20Journey" alt="Contribution Graph" />
 </p>
 
 <div align="center">
   <b>Thanks for visiting my profile.</b>
 </div>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=110&section=footer"/>
-</p>
