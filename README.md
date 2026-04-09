@@ -19,7 +19,7 @@ I'm **Nadil Saad**, a passionate **Software Developer, IoT Enthusiast, and Infor
 * 👀 Interested in **IoT, Software Development, and UI/UX**
 * 🌱 Currently learning **Android Development and Full-Stack Web Development**
 * 🤝 Looking to collaborate on **Web, IoT, and Software Development Projects**
-* 📫 Reach me at **[YOUR_EMAIL_HERE](mailto:nadilsaad17@gmail.com)**
+* 📫 Reach me at **[nadilsaad17@gmail.com](mailto:nadilsaad17@gmail.com)**
 * 😄 Pronouns: **He/Him**
 * ⚡ Fun fact: **I enjoy building real-world tech solutions**
 
