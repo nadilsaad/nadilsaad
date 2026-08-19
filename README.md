@@ -96,7 +96,7 @@ I'm **Nadil Saad**, a passionate **Software Developer, IoT Enthusiast, and AI & 
 <img src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/>
 </a>
 
-<a href="https://facebook.com/nadilsaad17">
+<a href="https://facebook.com/nadilsaad1">
 <img src="https://img.icons8.com/color/48/facebook-new.png" alt="facebook"/>
 </a>
 
@@ -108,7 +108,7 @@ I'm **Nadil Saad**, a passionate **Software Developer, IoT Enthusiast, and AI & 
 <img src="https://img.icons8.com/color/48/twitter--v1.png" alt="twitter"/>
 </a>
 
-<a href="https://www.instagram.com/nadil_saad">
+<a href="https://www.instagram.com/novver_tz">
 <img src="https://img.icons8.com/color/48/instagram-new.png" alt="instagram"/>
 </a>
 
