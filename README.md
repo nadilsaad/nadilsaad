@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Nadil+%F0%9F%91%8B;also+known+as+novver_tz;Software+Developer;AI+%26+ML;IoT+Enthusiast;UI%2FUX+Enthusiast;Information+Systems+Student" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Nadil+%F0%9F%91%8B;also+known+as+novver_tz;Software+Developer;AI+%26+ML;IoT+Enthusiast;UI%2FUX+Enthusiast;Information+Systems+Management+Student" />
 
 
 <img src="https://komarev.com/ghpvc/?username=nadilsaad&style=for-the-badge&color=blue" />
