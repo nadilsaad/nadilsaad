@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Hi+there+I'm+Nadil+👋;Software+Developer;IoT+Enthusiast;UI%2FUX+Enthusiast;Information+Systems+Student" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Hi+there+I'm+Nadil+👋+also+known as+novver_tz;Software+Developer;AI+&+ML;IoT+Enthusiast;UI%2FUX+Enthusiast;Information+Systems+Student" />
 
 <img src="https://komarev.com/ghpvc/?username=nadilsaad&style=for-the-badge&color=blue" />
 
@@ -10,15 +10,15 @@
 
 ## Hi there 👋 Welcome  
 
-I'm **Nadil Saad**, a passionate **Software Developer, IoT Enthusiast, and Information Systems Management student** interested in building practical systems and modern digital solutions.
+I'm **Nadil Saad**, a passionate **Software Developer, IoT Enthusiast, and AI & Machine Learning** interested in building practical systems and modern digital solutions.
 
 ---
 
 ## 🚀 About Me
 
-* 👀 Interested in **IoT, Software Development, and UI/UX**
+* 👀 Interested in **IoT, Software Development, AI & ML a**
 * 🌱 Currently learning **Android Development and Full-Stack Web Development**
-* 🤝 Looking to collaborate on **Web, IoT, and Software Development Projects**
+* 🤝 Looking to collaborate on **Web,AI & ML, IoT, and Software Development Projects**
 * 📫 Reach me at **[nadilsaad17@gmail.com](mailto:nadilsaad17@gmail.com)**
 * 😄 Pronouns: **He/Him**
 * ⚡ Fun fact: **I enjoy building real-world tech solutions**
